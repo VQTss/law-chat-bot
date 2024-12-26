@@ -1,4 +1,4 @@
-# law-chat-bot
+# Law vietnameses chat bot with RAG and LLM GPT
 
 Requirements
 <ul>
